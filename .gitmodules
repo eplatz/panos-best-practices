@@ -1,3 +1,3 @@
-[submodule "submodules/panos-config-elements"]
-	path = submodules/panos-config-elements
-	url = git@gitlab.com:panw-gse/tech-library/configure/panos-config-elements.git
+[submodule "submodules/panos-networking-configs"]
+	path = submodules/panos-networking-configs
+	url = https://gitlab.com/panw-gse/as/panos-networking-configs.git
